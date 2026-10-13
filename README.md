@@ -62,11 +62,6 @@ Connecting book lovers through discovery, exchange, and community.
   <img src="https://streak-stats.demolab.com?user=akshamehta&hide_border=true&background=00000000&ring=7C6CF2&fire=7C6CF2&currStreakLabel=7C6CF2&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
 </p>
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshamehta&bg_color=00000000&color=8b949e&line=7C6CF2&point=ffffff&area=true&area_color=7C6CF2&hide_border=true" />
-</p>
 
 ### 🐍 Contributions, Eaten
 
